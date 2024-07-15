@@ -1,4 +1,4 @@
-Description
+
 This project simulates the motion of a pendulum with drag using Heun's method. The provided MATLAB/Octave script calculates the angle and angular velocity of the pendulum over time and plots the results.
 Usage
 1. **Ensure you have MATLAB or Octave installed on your system.**
